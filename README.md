@@ -1,8 +1,9 @@
 # 2016Algorithm_hw_01
 Simple sorting problem
 
-#Init version
+**Init version**
 Analysis result:
+
 I_refs=111363392
 check=1.000000
 cpu_time=30162
@@ -16,7 +17,7 @@ m_peak=59457536
 maxrss=2170880
 @lang=cpp
 
-#Final version
+**Final version**
 Analysis result:
 I_refs=94385289
 check=1.000000
