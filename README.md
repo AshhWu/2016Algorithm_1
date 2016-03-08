@@ -31,8 +31,8 @@ Analysis result:
 ||result|
 |---| :---: |
 |I_refs|94385289|
-|check|1.000000|
-|cpu_time|24234|
+|check|1.000000/1.000000|
+|cpu_time|24.234ms|
 |flt|1108|
 |gcc|0|
 |heap_lost|0|
