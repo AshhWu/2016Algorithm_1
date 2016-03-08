@@ -4,8 +4,8 @@ Simple sorting problem
 **Init version**
 Analysis result:
 
-I_refs=111363392
-check=1.000000
+|I_refs|=111363392|
+|check |=1.000000 |
 cpu_time=30162
 flt=1364
 gcc=0
