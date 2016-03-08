@@ -1,7 +1,9 @@
 # 2016Algorithm_hw_01
 **Simple sorting problem**
 
-###Init version
+
+##Init version
+
 
 Analysis result:
 
@@ -20,12 +22,14 @@ Analysis result:
 |maxrss|2170880|
 @lang=cpp
 
-###Final version
+
+
+##Final version
 
 Analysis result:
 
 ||result|
-|...|:...:|
+|---| :---: |
 |I_refs|94385289|
 |check|1.000000|
 |cpu_time|24234|
@@ -38,6 +42,9 @@ Analysis result:
 |m_peak|58478592|
 |maxrss|1437696|
 @lang=cpp
+
+
+
 
 #Conclusion
 
