@@ -43,7 +43,7 @@ I did it just by discarding the stringstream and using a char to do the input.  
 
 So, if there are a great amount of data to be inputed, it is better to avoid using stingstream.   Cause stringstream use too mush memory to do the buffer things.
 
-But there are still pros of using it, such as reading a line of seperated ints or strings until '\n' which can simply be done by getline() and split it by 'ss<<str;' => 'ss>>(int or str);'.
+But there are still pros of using it, such as reading a line of seperated ints or strings until '\n' which can simply be done by getline() and split it by `ss<<str;` => `ss>>(int or str);`.
 
 And the cons of using char and reading it digit by digit is that it is really indigenous, and it can cause many bugs.
 
