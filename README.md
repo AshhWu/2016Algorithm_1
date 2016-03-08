@@ -2,7 +2,8 @@
 **Simple sorting problem**
 
 ###Init version
-**Analysis result:**
+
+Analysis result:
 
 ||result|
 |------| :--------: |
@@ -20,7 +21,9 @@
 @lang=cpp
 
 ###Final version
+
 Analysis result:
+
 ||result|
 |...|:...:|
 |I_refs|94385289|
@@ -37,11 +40,12 @@ Analysis result:
 @lang=cpp
 
 #Conclusion
+
 The first version's maximun resident size (maxrss) had much more bigger than Final version.
 
 I did it just by discarding the stringstream and using a char to do the input.  Although it seems clumsy, it does reduce the maxrss and also the CPU time.
 
-So, if there are a great amount of data to be inputed, it is better to avoid using stingstream.   Cause stringstream use too mush memory to do the buffer things.
+So, if there are a great amount of data to be inputed, it is better to avoid using stingstream.   Because stringstream use too mush memory to do the buffer things.
 
 But there are still pros of using it, such as reading a line of seperated ints or strings until '\n' which can simply be done by getline() and split it by `ss<<str;` => `ss>>(int or str);`.
 
