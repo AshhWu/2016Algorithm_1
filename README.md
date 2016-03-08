@@ -3,6 +3,7 @@ Simple sorting problem
 
 **Init version**
 Analysis result:
+
 ||result||
 |------| -------- |
 |I_refs|=111363392|
