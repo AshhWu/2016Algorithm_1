@@ -1,4 +1,4 @@
-# 2016Algorithm_hw_01
+# 2016Algorithm_01
 **Simple sorting problem**
 
 
